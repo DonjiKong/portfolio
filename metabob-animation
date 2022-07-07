@@ -6,7 +6,23 @@ Users and investors needed to immediatley understand what our product does, but 
 
 Process:
 I first met with the business team to go over what exactly needed to be communicated.
+[show team]
+
 As we all discussed what should go in the animation, I quickly sketched out some storyboards on a piece of paper.
+[sketches]
+
 Then after I showed my team the drawing and verifed that is what they wanted, I then took the drawing into figma and vectorized it.
+[figma]
+
+After vectorizing in figma, I exported the screens as SVGs and brought them into AfterEffects and animated it.
+[ae]
+
+Next I used the AfterEffects lottie-files plugin, and exported it to the lottie web animation format and embedded it into the website using webflow.
+[export screen]
+
+For the last step I exported the website to css, html, and javascript, created a commit, then pushed to github.
+[gh desktop]
+
+
 
 
